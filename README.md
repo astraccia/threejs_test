@@ -1,18 +1,18 @@
 **Installing**
 
 
-Install TypeScript
+**Install TypeScript**
 
 npm install -g typescript
 
 
-Install dependencies
+**Install dependencies**
 
 npm install
 
 
 
-Start it
+**Start it**
 
 npm run dev
 
